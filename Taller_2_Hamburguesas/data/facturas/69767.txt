@@ -1,0 +1,15 @@
+HAMBURGUESAS EL CORRAL
+
+Cliente: Santiago Cabra Chavez
+Dirección cliente: Carrera 13 #153-80
+ID Pedido: 69767
+Numero Pedido: 1
+
+PRODUCTOS
+	seven up			1500
+	corral			14000
+
+
+Valor Neto: 15500
+Valor IVA (19%): 2945
+TOTAL: 18445

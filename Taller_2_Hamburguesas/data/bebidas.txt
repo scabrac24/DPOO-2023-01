@@ -1,0 +1,7 @@
+coca cola;4500
+pepsi;4000
+sprite;3500
+seven up;6500
+colombiana;4700
+agua cristal sin gas;5000
+agua cristal con gas;5000

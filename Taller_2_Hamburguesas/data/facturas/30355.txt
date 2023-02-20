@@ -1,0 +1,15 @@
+HAMBURGUESAS EL CORRAL
+
+Cliente: Santiago Cabra Chavez
+Dirección cliente: Carrera 13 #153 - 80
+ID Pedido: 30355
+Numero Pedido: 1
+
+PRODUCTOS
+	corral			14000
+	coca cola		2500
+
+
+Valor Neto: 16500
+Valor IVA (19%): 3135
+TOTAL: 19635
